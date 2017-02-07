@@ -85,7 +85,7 @@
       }
     ?>
     <form method="get" action="<?php echo $_SERVER['PHP_SELF']; ?>" target="_self">
-      <input type="text" id="input_years" name="input_years" velue="1990" />
+      <input type="text" id="input_years" name="input_years" value="1990" />
       <input type="submit" id="calculate_years" value="calculate" name="calculate_button" />
     </form>
   </body>
