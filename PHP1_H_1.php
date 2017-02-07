@@ -67,7 +67,7 @@
 <html lang="en-US">
   <head>
     <meta charset=utf-8" />
-    <title>На колко години съм?</title> 
+    <title> На колко години съм? </title> 
   </head>
   <body>
     <?php              
